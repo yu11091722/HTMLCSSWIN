@@ -187,7 +187,7 @@ table {
     justify-content: center;
     align-items: center;
 }
-@media(max-width:990px) {
+@media(max-width:500px) {
     .blog{
     display: flex;
     flex-direction: column;
@@ -217,7 +217,7 @@ border:none;
 .search3{
     outline: none;
 }
-@media(max-width:990px){
+@media(max-width:500px){
     .header-pic-2 {
     display: flex;
     flex-direction: column;
@@ -229,7 +229,7 @@ border:none;
 }
 }
 
-@media(max-width:990px){
+@media(max-width:500px){
     .search{
      width: 90%;
     margin-top:2%;
@@ -398,7 +398,7 @@ border:none;
     padding-right: 10px;
 }
 
-@media(max-width:996px){
+@media(max-width:500px){
     .course-card{
         width: 100%;
 }

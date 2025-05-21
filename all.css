@@ -52,8 +52,8 @@ table {
 }
 
 .wrap{
-    max-width: 1920px;
-    margin: 0 auto;
+max-width: 1920px;
+margin: 0 auto;
 }
 
 .conent{
@@ -131,7 +131,7 @@ table {
 }
 
 .container li{
-    max-width: 900px;
+    max-width: 948px;
 }
 
 .container2{
@@ -140,7 +140,7 @@ table {
     justify-content: center;
     font-family: sans-serif;
     margin-left: 24px;
-    max-width: 636px;
+    max-width: 600px;
 }
 
 .container2 p{
@@ -226,7 +226,7 @@ border:none;
 
 .warp2{
   margin: 0 auto;
-  max-width: 1024px;
+  max-width: 600px;
   justify-content: space-around;
 }
 .course5{
@@ -262,7 +262,7 @@ border:none;
 } 
 .warp2{
   margin: 0 auto;
-  max-width: 1024px;
+  max-width: 600px;
 }
 .course{
   display:flex;

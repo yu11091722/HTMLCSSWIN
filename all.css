@@ -131,7 +131,7 @@ table {
 }
 
 .container li{
-    max-width: 948px;
+    max-width: 900px;
 }
 
 .container2{
@@ -186,22 +186,6 @@ table {
     display: flex;
     justify-content: center;
     align-items: center;
-}
-@media(max-width:500px) {
-    .blog{
-    display: flex;
-    flex-direction: column;
-}
-.blog img{
-    width: 100%;
-}
-.container5{
-    margin-bottom: 20px;
-}
-.container img{
-    width: 100%;
-}
-
 }
 .search{
     margin-top: 3%;
